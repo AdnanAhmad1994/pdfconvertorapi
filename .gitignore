@@ -47,3 +47,12 @@ Thumbs.db
 # Temporary test files
 test_docx.py
 test_all_conversions.py
+
+node_modules/
+.env
+.env.local
+.env.production
+__pycache__/
+*.pyc
+dist/
+build/
